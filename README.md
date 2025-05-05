@@ -1,4 +1,4 @@
-##A US Based Ecommerce Sales Company wants us to ccreate a Sales Dashboard showing information of YTD Sales and generate insights for below scenarios -## 
+##- A US Based Ecommerce Sales Company wants us to ccreate a Sales Dashboard showing information of YTD Sales and generate insights for below scenarios -## 
 
 1. Create a cards Banner showing YTD Sales,QTD Sales and MTD sales and Profit margin.
 2. Find Year on Year Growth for each Cards and show a YTd spakline for each measure in the cards to understand the monthly trend for each fact.
