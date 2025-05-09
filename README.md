@@ -6,6 +6,6 @@
 4. Find YTD Slaes performance by each states.
 5. Top 5 and Bottom 5 Products by Sales.
 6. YTD Sales by Region to know best and worst performing region all over country.
-7. YTD sales by SHipping Type to get the best shipping type percentage.
+7. YTD sales by SHipping Type to get the best shipping type percentage ..
 
 ![Untitled](https://github.com/user-attachments/assets/1a10fbef-e662-42d2-a139-6e800580c68a)
